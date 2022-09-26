@@ -19,7 +19,5 @@ while (True):
 
     if(line == 0):
         line = 2480 - 155
-    
-
 
 close_canvas()
